@@ -3,7 +3,7 @@ Sử dụng HTML, CSS, Bootstrap, jQuery
 # CỬA HÀNG BÁN LẺ THIẾT BỊ ĐIỆN TỬ (LAPTOP, SMARTPHONES. TABLET, etc ...)
 
 ### THÀNH VIÊN NHÓM
-| STT |    MSSV    | Họ và tên                                                                   | Lớp |
+| STT |    MSSV    | Họ và tên                                                                   |   Lớp    |
 | :-: | :--------: | --------------------------------------------------------------------------- | -------- |
 |  1  | 3122411174 | [Lê Song Nhật Quyền](https://www.facebook.com/songquyen.it.vn) | DCT122C3 |
 |  2  | 3122411109 | [Trương Phú Kiệt](https://www.facebook.com/kiet.chuong.54)           | DCT122C3 |
